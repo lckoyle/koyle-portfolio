@@ -14,19 +14,19 @@ As for what comes next, I don’t have a job lined up yet, nor am I tied to a sp
 
 ## Portfolio
 
-# Weekly Assignment 1
+### Weekly Assignment 1
 
-# Weekly Assignment 2
+### Weekly Assignment 2
 
-# Weekly Assignment 3
+### Weekly Assignment 3
 
-# Weekly Assignment 4
+### Weekly Assignment 4
 
-# Weekly Assignment 5
+### Weekly Assignment 5
 
-# Final Project Proposal
+### Final Project Proposal
 
-# Weekly Assignment 6
+### Weekly Assignment 6
 
-# Final Project
+### Final Project
 
