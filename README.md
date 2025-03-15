@@ -4,7 +4,7 @@
 
 Hi, I'm Claire and I’m in the final months of my Public Policy and Management degree at Carnegie Mellon University. My work focuses on policy solutions that drive equity and economic development, with a particular interest in rural communities, environmental justice, and emerging technologies like AI.
 
-Before coming to CMU, I lived in Denver, Boston, Walla Walla, Seoul, and Cordova, experiences that have shaped my perspective on policy challenges across different regions and cultures. My most recent job before graduate school was as a commercial fisherman, where I developed a new form of resilience, adaptability, and a deep appreciation for industries that sustain local economies. Currently, I'm researching AI-driven disparities in healthcare access and outcomes between rural and urban communities. 
+Before coming to CMU, I lived in Denver, Boston, Walla Walla, Seoul, and Cordova, experiences that have shaped my perspective on policy challenges across different regions and cultures. My most recent job before graduate school was as a commercial fisherman, where I developed a deep appreciation for industries that sustain local economies. Currently, I'm researching AI-driven disparities in healthcare access and outcomes between rural and urban communities. 
 
 ## What I hope to learn 
 
