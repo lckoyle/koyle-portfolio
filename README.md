@@ -1,5 +1,5 @@
 # koyle-portfolio
-###90753 Spatial Data Science with ArcGIS Pro process log
+### 90753 Spatial Data Science with ArcGIS Pro process log
 ## About me 
 
 Hi, I'm Claire and I’m in the final months of my Public Policy and Management degree at Carnegie Mellon University. My work focuses on policy solutions that drive equity and economic development, with a particular interest in rural communities, environmental justice, and emerging technologies like AI.
