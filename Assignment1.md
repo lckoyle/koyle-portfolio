@@ -66,7 +66,7 @@ Before finalizing the design, I tested the map at various zoom extents to ensure
 
 ## JSON Code
 
-[
+"[
   {
     "elementType": "geometry",
     "stylers": [
@@ -371,4 +371,4 @@ Before finalizing the design, I tested the map at various zoom extents to ensure
       }
     ]
   }
-]
+]"
