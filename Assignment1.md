@@ -1,5 +1,9 @@
 # Custom Map Style for Colorado Coalition for the Homeless
 
+# Bid Proposal for Custom Map Design and Integration
+
+This proposal outlines the deliverables and approach for Phase 1 of the map redesign and integration project for Colorado Coalition for the Homeless. The goal of this phase is to create a custom map that aligns with the organization’s existing design and meets functional requirements.
+
 ## Map Style Color Palette
 
 | Color Name     | Hex Code   | Swatch |
