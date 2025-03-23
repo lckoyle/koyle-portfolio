@@ -70,6 +70,9 @@ Before finalizing the design, I tested the map at various zoom extents to ensure
 
 ## JSON Code
 
+<a href="https://raw.githubusercontent.com/lckoyle/koyle-portfolio/main/mapJSON.json" download>Click here to download the JSON style file </a>
+
+
 [Uploa[
   {
     "elementType": "geometry",
