@@ -17,6 +17,10 @@ As for what comes next, I don’t have a job lined up yet, nor am I tied to a sp
 
 ### Weekly Assignment 1
 
+####Color Palette
+
+
+
 ### Weekly Assignment 2
 
 ### Weekly Assignment 3
