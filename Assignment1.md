@@ -44,6 +44,13 @@ This proposal outlines the deliverables and approach for Phase 1 of the map rede
 | **Water**               | Fill               | Color: #52aab3                                      |
 | **Water**               | Text Fill          | Color: #20647c                                      |
 
+## Palette Inspiration
+
+<img width="1058" alt="Screenshot 2025-03-23 at 12 17 23 PM" src="https://github.com/user-attachments/assets/2151f071-dd3c-4f2e-b8fe-7858d69e86d2" />
+<img width="1079" alt="Screenshot 2025-03-23 at 12 17 41 PM" src="https://github.com/user-attachments/assets/c3d5081c-3f0f-45f8-a3cf-86cf8ca7a333" />
+<img width="779" alt="Screenshot 2025-03-23 at 12 39 33 PM" src="https://github.com/user-attachments/assets/bc4086ae-51d8-4e4c-bd6e-a6f2bd69ca41" />
+![cch_logo_no40th_rgb](https://github.com/user-attachments/assets/16f5b488-08f7-4472-a2ea-42a91b1a79e9)
+
 
 ## Design Decisions
 
