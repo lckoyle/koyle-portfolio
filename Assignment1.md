@@ -4,13 +4,13 @@
 
 | Color Name     | Hex Code   | Swatch |
 |----------------|------------|--------|
-| Light Gray     | #d0d8df    | ![#d0d8df](https://placehold.it/50x50/d0d8df/d0d8df) |
-| Dark Blue      | #353c65    | ![#353c65](https://placehold.it/50x50/353c65/353c65) |
+| Light Gray     | #d0d8df    | <img width="152" alt="Screenshot 2025-03-23 at 5 56 08 PM" src="https://github.com/user-attachments/assets/5ea0cfd9-0396-4770-b9f4-571ae5d20b7f" />|
+| Dark Blue      | #353c65    | <img width="150" alt="Screenshot 2025-03-23 at 5 55 34 PM" src="https://github.com/user-attachments/assets/184a83c8-8def-4e4e-8ebe-8d4f764f8338" />|
 | Light Yellow   | #ffd27c (Lightness 80) | <img width="151" alt="Screenshot 2025-03-23 at 5 54 27 PM" src="https://github.com/user-attachments/assets/d4c3ec13-bc3c-45fd-8181-f43af0e55020" />|
 | Teal           | #20647c    |  <img width="150" alt="Screenshot 2025-03-23 at 5 53 21 PM" src="https://github.com/user-attachments/assets/e03d15c2-5230-4878-af0b-0afc951512dd" />|
-| Green          | #3b8870    | ![#3b8870](https://placehold.it/50x50/3b8870/3b8870) |
-| Off-White      | #f5f1e6    | ![#f5f1e6](https://placehold.it/50x50/f5f1e6/f5f1e6) |
-| Sky Blue       | #52aab3    | ![#52aab3](https://placehold.it/50x50/52aab3/52aab3) |
+| Green          | #3b8870    | <img width="149" alt="Screenshot 2025-03-23 at 5 56 56 PM" src="https://github.com/user-attachments/assets/116cbe5d-90a8-4011-9f38-69eded362dcd" /> |
+| Off-White      | #f5f1e6    | <img width="151" alt="Screenshot 2025-03-23 at 5 57 27 PM" src="https://github.com/user-attachments/assets/eccbec1b-dbf0-44e3-b6b9-61e66a681654" /> |
+| Turqouise      | #52aab3    | <img width="148" alt="Screenshot 2025-03-23 at 5 58 14 PM" src="https://github.com/user-attachments/assets/9b866d48-c6c6-44ad-9ea9-f9fcc37ea74e" />|
 
 
 | **Feature Type**        | **Element Type**   | **Stylers**                                         |
