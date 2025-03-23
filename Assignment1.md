@@ -36,9 +36,11 @@
 ## Testing
 The map was tested at multiple zoom levels to ensure usability. The chosen style provides clarity in city maps while being visually appealing.
 
-![alt text]('/Users/clairekoyle/Desktop/Screenshot 2025-03-23 at 5.18.07 PM.png')
-![alt text]('/Users/clairekoyle/Desktop/Screenshot 2025-03-23 at 5.18.37 PM.png')
-![alt text]('/Users/clairekoyle/Desktop/Screenshot 2025-03-23 at 5.19.14 PM.png')
+![Screenshot 2025-03-23 at 5 18 07 PM](https://github.com/user-attachments/assets/af4dea8e-3fac-4e5b-b6a1-059bbbc10dea)
+![Screenshot 2025-03-23 at 5 18 37 PM](https://github.com/user-attachments/assets/43957fad-987e-4431-b692-4035a6214e31)
+![Screenshot 2025-03-23 at 5 19 48 PM](https://github.com/user-attachments/assets/96519b63-e2e9-4b30-8c85-bb6742b452d2)
+![Screenshot 2025-03-23 at 5 19 14 PM](https://github.com/user-attachments/assets/685c1ec7-eece-480e-8fda-2c4b43456f97)
+
 
 ## JSON Code
 
