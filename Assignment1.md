@@ -1,4 +1,4 @@
-[mapJSON.json](https://github.com/user-attachments/files/19411759/mapJSON.json)# Custom Map Style for Colorado Coalition for the Homeless
+# Custom Map Style for Colorado Coalition for the Homeless
 
 ## Bid Introduction
 
@@ -71,3 +71,5 @@ Before finalizing the design, I tested the map at various zoom extents to ensure
 ## JSON Code
 
 <a href="https://raw.githubusercontent.com/lckoyle/koyle-portfolio/main/mapJSON.json" download>Click here to access the JSON style file </a>
+
+<a href="[mapJSON.json](https://github.com/user-attachments/files/19411759/mapJSON.json)" download> Click here to download the JSON style file
