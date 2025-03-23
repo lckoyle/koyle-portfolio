@@ -30,11 +30,22 @@
 | **Water**               | Text Fill          | Color: #20647c                                      |
 
 
-
 ## Design Decisions
 
+I created a map for the Colorado Coalition for the Homeless to provide stakeholders with clear, accessible information about emergency shelters, affordable housing, and social services in the Denver metro area. In developing the map, I carefully considered the coalition's existing branding materials, such as the logo, reports, and website. This enabled me to establish a color palette that was both clean and cohesive, while remaining brand-appropriate to ensure the map aligns with the Coalition's visual identity.
+
+A primary goal was to ensure that all features were legible at all zoom levels. Strong contrast between roads, parks, and natural elements ensures that each feature is visually clear and stands out against the neutral background. I also avoided using overly bright or saturated colors to keep the design balanced and easy on the eyes.
+
+- #52aab3 and #ffd27c: Turqouise and yellow were used for road features and points of interest to draw attention without overwhelming the map, ensuring important areas stand out.
+
+- #3b8870: I shifted from the given color palette to include a green shade, which was used for park areas. This was to provide contrast and help users orient themselves within the city, while still maintaining a visually balanced design.
+
+- #d0d8df and #f5f1e6: for the background and road geometries provide softness to the map and a foundation allowing for contrast.
+
+- #353c65 for text fill ensure that labels are readable against the lighter background.
+
 ## Testing
-The map was tested at multiple zoom levels to ensure usability. The chosen style provides clarity in city maps while being visually appealing.
+Before finalizing the design, I tested the map at various zoom extents to ensure usability at both large and small scales. This included checking that road names, points of interest, and other labels remained legible at different zoom levels.
 
 ![Screenshot 2025-03-23 at 5 18 07 PM](https://github.com/user-attachments/assets/af4dea8e-3fac-4e5b-b6a1-059bbbc10dea)
 ![Screenshot 2025-03-23 at 5 18 37 PM](https://github.com/user-attachments/assets/43957fad-987e-4431-b692-4035a6214e31)
